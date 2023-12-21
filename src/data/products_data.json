@@ -1,0 +1,347 @@
+[
+    {
+        "id": 10,
+        "title": "Manzanas",
+        "description": "Manzanas frescas y deliciosas",
+        "price": 2.5,
+        "rating": 4.8,
+        "stock": 100,
+        "category": "frutas",
+        "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+        "images": [
+            "https://i.dummyjson.com/data/products/10/1.jpg",
+            "https://i.dummyjson.com/data/products/10/2.jpg",
+            "https://i.dummyjson.com/data/products/10/thumbnail.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Pan Integral",
+        "description": "Pan integral recién horneado",
+        "price": 3.0,
+        "rating": 4.5,
+        "stock": 50,
+        "category": "panadería",
+        "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+        "images": [
+            "https://i.dummyjson.com/data/products/11/1.jpg",
+            "https://i.dummyjson.com/data/products/11/2.jpg",
+            "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Chocolate Amargo",
+        "description": "Tableta de chocolate amargo 70%",
+        "price": 4.99,
+        "rating": 4.7,
+        "stock": 30,
+        "category": "chocolates",
+        "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+        "images": [
+            "https://i.dummyjson.com/data/products/12/1.jpg",
+            "https://i.dummyjson.com/data/products/12/2.jpg",
+            "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Arroz Integral",
+        "description": "Arroz integral de alta calidad",
+        "price": 1.99,
+        "rating": 4.6,
+        "stock": 80,
+        "category": "granos",
+        "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+        "images": [
+            "https://i.dummyjson.com/data/products/13/1.jpg",
+            "https://i.dummyjson.com/data/products/13/2.jpg",
+            "https://i.dummyjson.com/data/products/13/thumbnail.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Aceite de Oliva Extra Virgen",
+        "description": "Aceite de oliva de primera calidad",
+        "price": 7.99,
+        "rating": 4.9,
+        "stock": 40,
+        "category": "aceites",
+        "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+        "images": [
+            "https://i.dummyjson.com/data/products/14/1.jpg",
+            "https://i.dummyjson.com/data/products/14/2.jpg",
+            "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Yogur Natural",
+        "description": "Yogur natural sin azúcares añadidos",
+        "price": 2.79,
+        "rating": 4.5,
+        "stock": 60,
+        "category": "lácteos",
+        "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+        "images": [
+            "https://i.dummyjson.com/data/products/15/1.jpg",
+            "https://i.dummyjson.com/data/products/15/2.jpg",
+            "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+        ]
+    },
+        {
+            "id": 16,
+            "title": "Fresas",
+            "description": "Fresas frescas y jugosas",
+            "price": 3.99,
+            "rating": 4.8,
+            "stock": 120,
+            "category": "frutas",
+            "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/16/1.jpg",
+                "https://i.dummyjson.com/data/products/16/2.jpg",
+                "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Baguette",
+            "description": "Baguette crujiente recién horneada",
+            "price": 2.5,
+            "rating": 4.5,
+            "stock": 60,
+            "category": "panadería",
+            "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/17/1.jpg",
+                "https://i.dummyjson.com/data/products/17/2.jpg",
+                "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Chocolate con Almendras",
+            "description": "Tableta de chocolate con almendras",
+            "price": 5.49,
+            "rating": 4.7,
+            "stock": 40,
+            "category": "chocolates",
+            "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/18/1.jpg",
+                "https://i.dummyjson.com/data/products/18/2.jpg",
+                "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Quinoa",
+            "description": "Quinoa orgánica de origen sostenible",
+            "price": 4.29,
+            "rating": 4.6,
+            "stock": 50,
+            "category": "granos",
+            "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/19/1.jpg",
+                "https://i.dummyjson.com/data/products/19/2.jpg",
+                "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Aceitunas Rellenas de Queso",
+            "description": "Aceitunas verdes rellenas de queso",
+            "price": 6.99,
+            "rating": 4.9,
+            "stock": 30,
+            "category": "aceitunas",
+            "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/20/1.jpg",
+                "https://i.dummyjson.com/data/products/20/2.jpg",
+                "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 21,
+            "title": "Leche de Almendras",
+            "description": "Leche de almendras sin lactosa",
+            "price": 3.49,
+            "rating": 4.5,
+            "stock": 70,
+            "category": "lácteos",
+            "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/21/1.jpg",
+                "https://i.dummyjson.com/data/products/21/2.jpg",
+                "https://i.dummyjson.com/data/products/21/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Granola Orgánica",
+            "description": "Mezcla de granos y frutas secas orgánicas",
+            "price": 5.79,
+            "rating": 4.7,
+            "stock": 25,
+            "category": "cereales",
+            "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/22/1.jpg",
+                "https://i.dummyjson.com/data/products/22/2.jpg",
+                "https://i.dummyjson.com/data/products/22/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Miel de Abeja Pura",
+            "description": "Miel de abeja 100% natural y sin aditivos",
+            "price": 8.99,
+            "rating": 4.8,
+            "stock": 40,
+            "category": "endulzantes",
+            "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/23/1.jpg",
+                "https://i.dummyjson.com/data/products/23/2.jpg",
+                "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Pasta Integral",
+            "description": "Pasta de trigo integral de alta calidad",
+            "price": 2.99,
+            "rating": 4.6,
+            "stock": 55,
+            "category": "pasta",
+            "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/24/1.jpg",
+                "https://i.dummyjson.com/data/products/24/2.jpg",
+                "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Almendras Tostadas",
+            "description": "Almendras tostadas y saladas",
+            "price": 7.49,
+            "rating": 4.7,
+            "stock": 30,
+            "category": "frutos-secos",
+            "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/25/1.jpg",
+                "https://i.dummyjson.com/data/products/25/2.jpg",
+                "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Sopa de Lentejas",
+            "description": "Sopa nutritiva de lentejas",
+            "price": 3.79,
+            "rating": 4.5,
+            "stock": 40,
+            "category": "sopas",
+            "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/26/1.jpg",
+                "https://i.dummyjson.com/data/products/26/2.jpg",
+                "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Yogur de Frutas",
+            "description": "Yogur con trozos de frutas frescas",
+            "price": 2.99,
+            "rating": 4.8,
+            "stock": 60,
+            "category": "lácteos",
+            "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/27/1.jpg",
+                "https://i.dummyjson.com/data/products/27/2.jpg",
+                "https://i.dummyjson.com/data/products/27/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Té Verde Orgánico",
+            "description": "Té verde orgánico de origen sostenible",
+            "price": 4.49,
+            "rating": 4.6,
+            "stock": 35,
+            "category": "bebidas",
+            "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/28/1.jpg",
+                "https://i.dummyjson.com/data/products/28/2.jpg",
+                "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Aguacates",
+            "description": "Aguacates frescos y maduros",
+            "price": 1.99,
+            "rating": 4.7,
+            "stock": 50,
+            "category": "frutas",
+            "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/29/1.jpg",
+                "https://i.dummyjson.com/data/products/29/2.jpg",
+                "https://i.dummyjson.com/data/products/29/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Galletas de Avena",
+            "description": "Galletas de avena con trozos de chocolate",
+            "price": 3.49,
+            "rating": 4.8,
+            "stock": 45,
+            "category": "galletas",
+            "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/30/1.jpg",
+                "https://i.dummyjson.com/data/products/30/2.jpg",
+                "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 31,
+            "title": "Mermelada de Fresa",
+            "description": "Mermelada casera de fresa",
+            "price": 4.99,
+            "rating": 4.9,
+            "stock": 25,
+            "category": "conservas",
+            "thumbnail": "https://i.dummyjson.com/data/products/31/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/31/1.jpg",
+                "https://i.dummyjson.com/data/products/31/2.jpg",
+                "https://i.dummyjson.com/data/products/31/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 32,
+            "title": "Café Orgánico",
+            "description": "Café molido orgánico de comercio justo",
+            "price": 6.49,
+            "rating": 4.8,
+            "stock": 30,
+            "category": "bebidas",
+            "thumbnail": "https://i.dummyjson.com/data/products/32/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/32/1.jpg",
+                "https://i.dummyjson.com/data/products/32/2.jpg",
+                "https://i.dummyjson.com/data/products/32/thumbnail.jpg"
+            ]
+        }
+    ]
